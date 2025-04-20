@@ -1,0 +1,45 @@
+body{
+    background-image: url(imagen/imagen-1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    color: #ffffff;
+    margin: 1;
+    padding: 1;
+}
+
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #007BFF;
+}
+
+footer {
+    background-color: #fefafa;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
